@@ -1,0 +1,10 @@
+Network address: 192.168.0.0
+Broadcast address: 192.168.0.255
+Host amount: 254
+Address range: 192.168.0.1 - 192.168.0.254
+------------------------------
+Network address: 21.16.0.0
+Broadcast address: 21.31.255.255
+Host amount: 1048574
+Address range: 21.16.0.1 - 21.31.255.254
+------------------------------
