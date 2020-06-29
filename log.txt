@@ -1,5 +1,0 @@
-Network address: 192.158.2.0
-Broadcast address: 192.158.3.255
-Host amount: 510
-Address range: 192.158.2.1 - 192.158.3.254
-------------------------------
