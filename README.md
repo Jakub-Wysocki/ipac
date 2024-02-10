@@ -1,4 +1,4 @@
-# ipac
-Simple program that from IPv4 address counts subnet mask, network address and range of hosts. Only standard C/C++ library. Currently CLI. I am working on GUI. 
-# installation
-Just copy the repository and compile the file. I'll add cmake file in the future. Works fine with g++ on Lubuntu 
+# About
+Simple program that from IPv4 address counts subnet mask, network address and range of hosts. It rely only on standard C/C++ library.
+# Status
+This is a side project I made while learning programming. I am not developing it anymore. When I look at it today, the quality of the code, project structure and overall problem solutions are rather bad. 
